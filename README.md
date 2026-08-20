@@ -390,7 +390,7 @@ All power, sensing, and control terminals were routed to externally accessible b
         <a href="mailto:sourabh.desai@dsce.edu">
             <img src="https://img.icons8.com/ios/50/00BFFF/email.png" alt="Email" width="30" height="30">
         </a>
-        <a href="https://www.linkedin.com/in/sourabh-desai">
+        <a href="https://www.linkedin.com/in/sourabh-desai-ba4388315/">
             <img src="https://img.icons8.com/ios/50/0000FF/linkedin.png" alt="LinkedIn" width="30" height="30">
         </a>
     </div>
