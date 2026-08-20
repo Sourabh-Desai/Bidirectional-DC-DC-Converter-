@@ -264,7 +264,7 @@ We would like to express our sincere gratitude to the **Dept. of EEE, DSCE** for
 
 ---
 
-```
+\`\`\`
 Interested in collaboration, consulting, or deployment?
 
 📧 Email: your.email@dsce.edu
@@ -289,4 +289,4 @@ Transforming Energy Distribution for Next-Generation Electric Vehicles
 Every Watt Optimized. Every Acceleration Empowered.
 
 Dayananda Sagar College of Engineering (DSCE) | Bengaluru
-```
+\`\`\`
